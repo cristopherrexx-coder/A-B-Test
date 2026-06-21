@@ -1,1 +1,5 @@
-# A-B-Test
+En colaboración con el departamento de marketing, se evaluó un conjunto de hipótesis orientadas a incrementar los ingresos de una tienda en línea. Se aplicaron los marcos de priorización ICE (Impact, Confidence, Ease) y RICE (Reach, Impact, Confidence, Effort) para identificar las iniciativas con mayor potencial de negocio.
+
+Posteriormente, se diseñó y analizó una prueba A/B para evaluar el impacto de los cambios propuestos. El análisis incluyó el seguimiento de métricas clave como ingresos acumulados por grupo, valor promedio de pedido (AOV), diferencia relativa entre grupos, tasa de conversión y comportamiento de los usuarios a lo largo del experimento.
+
+Se identificaron y eliminaron valores atípicos con el fin de reducir sesgos y validar la consistencia de los resultados. Los hallazgos fueron representados mediante visualizaciones y análisis estadísticos que permitieron comparar el desempeño de ambos grupos. Con base en la evidencia obtenida, se recomendó la finalización anticipada de la prueba y la implementación de la variante con mejor rendimiento, al demostrar una mejora significativa en los indicadores de negocio.
